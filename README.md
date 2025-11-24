@@ -154,10 +154,3 @@ Creator & Developer – Cropify
 **📜 License**
 
 This project is for educational and research purposes.
-Free to use and modify, provided proper credit is given.
-
-
-
-a project wiki,
-
-or PowerPoint slides for your project viva.
